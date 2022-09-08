@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srinathv2
-- 👀 I’m interested in flutter,web development,python,ethical hacking and blockchain
+- 👀 I’m interested in flutter,web development,python,ethical hacking,machine learning and blockchain
 - 🌱 I’m learning always because its a never ending process
 - 💞️ I’m looking to collaborate on flutter and web development projects
 - 📫 To reach me 
