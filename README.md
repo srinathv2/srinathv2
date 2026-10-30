@@ -1,9 +1,1 @@
-- 👋 Hi, I’m a Database Researcher
-- 👀 I’m interested in PostgreSQL,flutter, web development, python,ethical hacking, machine learning, and blockchain
-- 🌱 I’m learning always because its a never ending process
-- 📫 To reach me 
-      linkedin:www.linkedin.com/in/srinath-reddy-sadipiralla-685469197
-<!---
-srinathv2/srinathv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love hacking postgres.
